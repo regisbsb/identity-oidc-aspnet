@@ -6,6 +6,12 @@ This web application is a demonstration of how to implement [OpenID Connect](htt
 
 Open the solution in Visual Studio, click the run button with "IIS Express (Microsoft Edge)" (same as pressing `F5`), and a new browser window will open at `http://localhost:50764/`. Click "Log in »" on the home page to authenticate with the login.gov IdP in our integration environment.
 
+## Dependency
+
+### For Visual Studio 2015
+
+Need [TypeScript for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48593) and [Node.js](https://nodejs.org/) version 10.15.3 preinstalled.
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
